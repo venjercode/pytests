@@ -1,0 +1,20 @@
+(N) 2020-04-29T14:12:57 - qBittorrent v4.0.3 started
+(I) 2020-04-29T14:13:01 - qBittorrent is trying to listen on any interface port: 8999
+(N) 2020-04-29T14:13:01 - Peer ID: -qB4030-
+(N) 2020-04-29T14:13:01 - HTTP User-Agent is 'qBittorrent/4.0.3'
+(I) 2020-04-29T14:13:01 - DHT support [ON]
+(I) 2020-04-29T14:13:01 - Local Peer Discovery support [ON]
+(I) 2020-04-29T14:13:01 - PeX support [ON]
+(I) 2020-04-29T14:13:01 - Anonymous mode [OFF]
+(I) 2020-04-29T14:13:01 - Encryption support [ON]
+(I) 2020-04-29T14:13:01 - Embedded Tracker [OFF]
+(I) 2020-04-29T14:13:01 - UPnP / NAT-PMP support [ON]
+(W) 2020-04-29T14:13:01 - Couldn't load GeoIP database. Reason: No such file or directory
+(N) 2020-04-29T14:13:02 - Options were saved successfully.
+(I) 2020-04-29T14:13:02 - qBittorrent is successfully listening on interface :: port: TCP/8999
+(I) 2020-04-29T14:13:02 - qBittorrent is successfully listening on interface 0.0.0.0 port: TCP/8999
+(I) 2020-04-29T14:13:02 - qBittorrent is successfully listening on interface 0.0.0.0 port: UDP/8999
+(W) 2020-04-29T14:13:06 - Couldn't download GeoIP database file. Reason: The remote host name was not found (invalid hostname)
+(I) 2020-04-29T14:13:21 - External IP: 89.36.68.7
+(N) 2020-04-29T14:13:30 - Options were saved successfully.
+(I) 2020-04-29T14:13:43 - UPnP / NAT-PMP support [OFF]

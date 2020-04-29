@@ -1,0 +1,14 @@
+cmds
+Desktop
+Documents
+Downloads
+examples.desktop
+Music
+of.txt
+Pictures
+Public
+snap
+Templates
+test
+test.txt
+Videos

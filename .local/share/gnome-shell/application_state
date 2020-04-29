@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="gnome-control-center.desktop" open-window-count="0" score="55" last-seen="1588165296"/>
+    <application id="atom.desktop" open-window-count="0" score="34" last-seen="1588179776"/>
+    <application id="firefox.desktop" open-window-count="1" score="213" last-seen="1588180781"/>
+    <application id="vlc.desktop" open-window-count="0" score="3" last-seen="1588165606"/>
+    <application id="org.gnome.Nautilus.desktop" open-window-count="0" score="177" last-seen="1588178761"/>
+    <application id="eog.desktop" open-window-count="0" score="6" last-seen="1587863627"/>
+    <application id="unity-tweak-tool.desktop" open-window-count="0" score="51" last-seen="1587872986"/>
+    <application id="qbittorrent.desktop" open-window-count="0" score="4" last-seen="1588166014"/>
+    <application id="google-chrome.desktop" open-window-count="0" score="0" last-seen="1587876259"/>
+    <application id="org.gnome.gedit.desktop" open-window-count="0" score="16" last-seen="1587877200"/>
+    <application id="mate-appearance-properties.desktop" open-window-count="0" score="5" last-seen="1587864147"/>
+    <application id="org.gnome.Terminal.desktop" open-window-count="1" score="2030" last-seen="1588180708"/>
+    <application id="org.gnome.Software.desktop" open-window-count="0" score="59" last-seen="1588178275"/>
+    <application id="thunderbird.desktop" open-window-count="0" score="0" last-seen="1587864228"/>
+  </context>
+</application-state>

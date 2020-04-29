@@ -1,0 +1,20 @@
+venjer@venjer-linux:~$ find ./test/t1 -type f -iname "t*" -exec  grep -n "x" {} +
+5:x
+
+
+venjer@venjer-linux:~$ find ./test/t1 -type f -iname "t*" -exec  grep -n "x" {} +
+5:x
+
+
+venjer@venjer-linux:~$ find . -size +100k -iname "*.txt" -exec grep -i -n "a" {} + | tee of.txt
+---same as > of.txt
+
+
+--dow  starts from sun as 0
+crontab -e
+
+# m h  dom mon dow   command
+
+57 05 * * * ls > ./test/t1.txt
+
+
